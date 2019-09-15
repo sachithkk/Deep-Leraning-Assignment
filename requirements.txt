@@ -21,7 +21,7 @@ ke==1.2.7
 numpy==1.16.4
 oauth2==1.9.0.post1
 pandas==0.24.2
-pip==19.2.3
+pip==19.0.3
 protobuf==3.6.0
 python-dateutil==2.8.0
 pytz==2019.1
@@ -35,6 +35,7 @@ six==1.12.0
 sklearn==0.0
 soupsieve==1.9.2
 tensorboard==1.14.0
+tensorflow==1.14.0
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 tqdm==4.32.2
