@@ -21,7 +21,7 @@ ke==1.2.7
 numpy==1.16.4
 oauth2==1.9.0.post1
 pandas==0.24.2
-pip==19.0.3
+pip==21.1
 protobuf==3.6.0
 python-dateutil==2.8.0
 pytz==2019.1
