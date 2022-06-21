@@ -18,7 +18,7 @@ httplib2==0.13.0
 idna==2.8
 joblib==0.13.2
 ke==1.2.7
-numpy==1.16.4
+numpy==1.22.0
 oauth2==1.9.0.post1
 pandas==0.24.2
 pip==19.0.3
